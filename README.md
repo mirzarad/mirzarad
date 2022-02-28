@@ -1,4 +1,3 @@
-# profile
 <h3 align="center">A Web Developer with a keen eye for UI/UX, Based in NYC.</h3>
 
 - 🔭 I’m currently working on [Memories](https://github.com/mirzarad/Memories)
