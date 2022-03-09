@@ -1,6 +1,6 @@
 <h3 align="center">A Web Developer with a keen eye for UI/UX, Based in NYC.</h3>
 
-- 🔭 I’m currently working on [Memories](https://github.com/mirzarad/Memories)
+- 🔭 I’m currently working on [Memories](https://github.com/mirzarad/Memories) and [Project-Management](https://github.com/mirzarad/Project-Management)
 
 - 📫 How to reach me **mirzaradoncic@gmail.com**
 
