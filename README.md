@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **mirzaradoncic@gmail.com**
 
-- ⚡ Fun fact **Mr. Robot is the best show of all time.**
+- ⚡ Fun fact **Mr. Robot is the best show of all time...** We'll that one might be an opinion.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
